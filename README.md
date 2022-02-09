@@ -54,11 +54,11 @@ contract Azuki is ERC721A {
 
 ## Roadmap
 
-- [] Add burn function
-- [] Add flexibility for the first token id to not start at 0
-- [] Support ERC721 Upgradeable
-- [] Add more documentation on benefits of using ERC721A
-- [] Increase test coverage
+- [ ] Add burn function
+- [ ] Add flexibility for the first token id to not start at 0
+- [ ] Support ERC721 Upgradeable
+- [ ] Add more documentation on benefits of using ERC721A
+- [ ] Increase test coverage
 
 See the [open issues](https://github.com/chiru-labs/ERC721A/issues) for a full list of proposed features (and known issues).
 
